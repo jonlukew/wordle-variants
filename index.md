@@ -11,3 +11,5 @@ This website contains various links for various project I am currently working o
 * []()
 * []()
 {% endcomment %}
+
+{% include_relative footer.md %}
